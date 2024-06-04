@@ -2,8 +2,11 @@
 
 **Querius** is a pure Python in-memory SQL engine, featuring a custom-built lexer and parser developed from scratch. Designed as a learning project, Querius can help look inside how a SQL query can be processed.
 
-> [!CAUTION]
+> [!IMPORTANT]
 > **Querius is intended solely for educational purposes and should not be used in production.** It lacks the optimizations and features of established SQL engines. For reliable and secure database management, please use proven SQL engines like PostgreSQL, MySQL, or SQLite.
+
+> [!CAUTION]
+> The project is not passing some of the tests at the moment and is still in development.
 
 
 ## Use Cases
